@@ -11,8 +11,9 @@ You can find report in the repository.
 ## Proposed Methods
 
 1. Greedy: Choose the action that could reverse the maximum amount of chess.
-2. Monte Carlo Tree Search
-3. Q-Learning with DQN
+2. Minmax
+3. Monte Carlo Tree Search
+4. Q-Learning with DQN
 
 ## How to run
 
