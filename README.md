@@ -4,6 +4,8 @@ Course Project for CS181 (Artificial Intelligence), 23Fall.
 
 Proudly presented to you by Zaizhou Yang, Shengxin Li, Yiang Ju, Zhuo Diao and Guanjie Huang!
 
+You can find report in the repository.
+
 ![Demo](./doc/demo.gif)
 
 ## Proposed Methods
